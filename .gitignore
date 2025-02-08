@@ -1,0 +1,7 @@
+.env
+.venv
+db.sqlite3
+test.rest
+__pycache__/
+*/__pycache__/
+*/*/__pycache__/
